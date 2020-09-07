@@ -1,0 +1,24 @@
+S = SRP Single responsibility Principle.  Each software module should have one and only one reason to change
+
+Multipurpose tools don't perform as wall as single purpose tools
+Reasons to change relevant to the domain they relate to e.g. Functional/non functional
+
+Tight coupling mixes two or more details in the same module or class.
+
+Seperation of concerns: keep the plumbing code separate from business logic.
+
+Cohesion how various methods and data relates to each other in a module
+
+
+
+O = Open / Closed Principle
+L = Liskov substitution principle
+I
+D:
+
+
+Pain driven development
+
+Avoid premature optimisation
+
+If current d
